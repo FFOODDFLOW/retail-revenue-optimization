@@ -1,0 +1,17 @@
+# Ignore large or unnecessary files
+*.pbix
+*.csv
+*.xlsx
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python environments
+venv/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+desktop.ini
