@@ -195,7 +195,7 @@ The following screenshots highlight the primary analytical views developed in Po
 ---
 
 ## Key Findings
-- ~7.3% revenue lost due to returns (~$1.5M impact)
+- \~7.3% revenue lost due to returns (\~$1.5M impact)
 - December 2011 shows a return rate spike likely due to partial-month data
 - Revenue leakage concentrated among a small number of SKUs
 - Returning customers drive majority of revenue
